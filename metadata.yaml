@@ -1,0 +1,33 @@
+_repo: The-Queen-Versus-Billy-and-Other-Stories_62875
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osbourne, Lloyd
+    aliases:
+    - Osborne, Lloyd
+    - Osbourne, Samuel Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: https://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: ''
+gutenberg_issued: '2020-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62875'
+  lccn: 00006827
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The queen versus Billy -- The beautiful man of Pingalalp -- The dust
+  of defeat -- The happiest day of his life -- Father Zosimus -- Frenchy's last job
+  -- The devil's white man -- The phantom city -- Amatua's sailor.
+title: The Queen Versus Billy, and Other Stories
+url: http://www.gutenberg.org/ebooks/62875
